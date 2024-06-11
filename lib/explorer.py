@@ -1,5 +1,5 @@
-from lib.builder import Builder
-from Component import Container
+from builder import Builder
+from ..Component import Container
 
 
 class FunnyJsonExplorer:
